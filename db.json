@@ -1,13 +1,9 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
+  "ArtWork": [
+    { "id": 1, "title": "Monalisa", "url": "https://images.app.goo.gl/UYUuM1uzjfXghqbq5" },
+    { "id": 2, "title": "Starry Night", "url": "https://images.app.goo.gl/xLtdZ6W4hFULaxhe7" },
     { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
