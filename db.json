@@ -4,7 +4,7 @@
     { "id": 1, "title": "Monalisa", "url": "https://images.app.goo.gl/UYUuM1uzjfXghqbq5" },
     { "id": 2, "description": "Starry Night", "image": "https://images.app.goo.gl/xLtdZ6W4hFULaxhe7" },
     { "id": 3, "description": "Wall drawing", "image": "https://artsandculture.google.com/asset/wall-drawing-1131-whirls-and-twirls-wadsworth-sol-lewitt/yAENBQYzYTKSyA" }
-    { "id": 4, "description": "jaguar", "image": "http://www.freephotobank.org/d/36707-2/Jaguars-001.jpg"}
+    { "id": 4, "description": "jaguar", "image": "http://www.freephotobank.org/d/36707-2/Jaguars-001.jpg" }
   ],
   "profile": {
     "name": "typicode"
