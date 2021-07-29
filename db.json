@@ -2,7 +2,7 @@
 {
   "ArtWork": [
     { "id": 1, "title": "Monalisa", "url": "https://images.app.goo.gl/UYUuM1uzjfXghqbq5" },
-    { "id": 2, "title": "Starry Night", "url": "https://images.app.goo.gl/xLtdZ6W4hFULaxhe7" },
+    { "id": 2, "description": "Starry Night", "image": "https://images.app.goo.gl/xLtdZ6W4hFULaxhe7" },
     { "id": 3, "title": "Post 3" }
   ],
   "profile": {
